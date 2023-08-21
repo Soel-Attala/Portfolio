@@ -1,12 +1,13 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I am an advanced student in full stack programming, I am currently in the last year of my degree.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    ".NET",
+    "ASP .NET CORE",
+    "SQL",
+    "C#",
+    "JAVA",
+    "Python",
+    "Unity 3D"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about solving problems in creative new ways to drive innovation. I am constantly looking to expand my .net expertise to make applications more accessible and have better functionality for all users."
 }
