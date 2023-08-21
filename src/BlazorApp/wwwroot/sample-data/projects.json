@@ -1,22 +1,22 @@
 [
   {
-    "title": "10 Things To Know About Azure Static Web Apps 🎉",
-    "description": "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    "url": "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+    "title": "Microsoft Learn Profile",
+    "description": "Check my microsoft learn profile",
+    "url": "https://learn.microsoft.com/en-us/users/soelantonioattala-1904/"
   },
   {
-    "title": "Web Development for Beginners",
-    "description": "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    "url": "https://github.com/microsoft/web-dev-for-beginners"
+    "title": "University Backend",
+    "description": "We developed the backend of a university campus application using ASP .NetCore ",
+    "url": "https://github.com/Soel-Attala/University-Backend"
   },
   {
-    "title": "My Resume Site",
-    "description": "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    "url": "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+    "title": "Sales System",
+    "description": "We developed the backend of a sales system using ASP.NET Core 6 and SQL server.",
+    "url": "https://github.com/Soel-Attala/Sales-System"
   },
   {
-    "title": "GitHub Codespaces and github.dev",
-    "description": "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    "url": "https://www.youtube.com/watch?v=c3hHhRME_XI"
+    "title": "A little projects in unity 3D",
+    "description": "some projects I did while I was studying unity 3d, I recommend to watch final project and follow camera system",
+    "url": "https://github.com/Soel-Attala/Proyectos-Unity/tree/main/Desafios-CoderHouse"
   }
 ]
