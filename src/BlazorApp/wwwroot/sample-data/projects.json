@@ -1,16 +1,16 @@
 [
   {
     "title": "Contact App",
-    "description": "A little app to save contacts",
+    "description": "A little app to save contacts with ASP:NET Core and React JS",
     "url": "https://github.com/Soel-Attala/ASP.NETCore-React/tree/main/ContactsApp"
   },
   {
     "title": "Task App",
-    "description": "Hey here you can save your daily tasks",
+    "description": "Hey here you can save your daily tasks with ASP:NET Core and React JS",
     "url": "https://github.com/Soel-Attala/ASP.NETCore-React/tree/main/TaskApp"
   },
   {
-    "title": "ASP.NET Core - REACT",
+    "title": "Sales System",
     "description": "A sales system using ASP.NET Core, SQL Server, and N layer architecture",
     "url": "https://github.com/Soel-Attala/ASP.NETCore-React/tree/main/SalesSystem"
   },
