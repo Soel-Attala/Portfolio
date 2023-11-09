@@ -1,18 +1,18 @@
 [
   {
-    "title": "Microsoft Learn Profile",
-    "description": "Check my microsoft learn profile",
-    "url": "https://learn.microsoft.com/en-us/users/soelantonioattala-1904/"
+    "title": "Contact App",
+    "description": "A little app to save contacts",
+    "url": "https://github.com/Soel-Attala/ASP.NETCore-React/tree/main/ContactsApp"
   },
   {
-    "title": "University Backend",
-    "description": "We developed the backend of a university campus application using ASP .NetCore ",
-    "url": "https://github.com/Soel-Attala/University-Backend"
+    "title": "Task App",
+    "description": "Hey here you can save your daily tasks",
+    "url": "https://github.com/Soel-Attala/ASP.NETCore-React/tree/main/TaskApp"
   },
   {
     "title": "ASP.NET Core - REACT",
-    "description": "This repositorie contains a few project using ASP.NET Core, SQL Server, and React JS",
-    "url": "https://github.com/Soel-Attala/ASP.NETCore-React"
+    "description": "A sales system using ASP.NET Core, SQL Server, and N layer architecture",
+    "url": "https://github.com/Soel-Attala/ASP.NETCore-React/tree/main/SalesSystem"
   },
   {
     "title": "A little projects in unity 3D",
